@@ -13,4 +13,3 @@ Java
 
 Student:
 Mohd Waris
-B.Tech
